@@ -1,0 +1,14 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns":  ["Hey Sammy", "Hello Sammy", "Hi Sammy", "Sammy"],
+  "responses":  ["Hello there kiddo, whatsup"]},
+
+  {"tag": "support",
+  "patterns":  ["I feel alone", "I want my mummy"],
+  "responses":  ["Aww don't worry kiddo, I'm here for you"]},
+
+  {"tag": "die",
+  "patterns":  ["I hate my life", "I want to die"],
+  "responses":  ["Let's cry together boo hoo hoo hoo"]}
+
+]}
